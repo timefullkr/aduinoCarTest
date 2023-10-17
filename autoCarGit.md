@@ -1,4 +1,4 @@
-![image](https://github.com/timefullkr/aduinoCarTest/assets/126941179/40b0fddc-3a8f-4de3-9cea-fb381d78a511)
+![image](https://github.com/timefullkr/aduinoCarTest/assets/126941179/40b0fddc-3a8f-4de3-9cea-fb381d78a5101.png)
 
 ![image](https://github.com/timefullkr/aduinoCarTest/assets/126941179/d65c62e6-d62d-489b-ba06-710b327805a5)
 
